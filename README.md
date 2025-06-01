@@ -4,14 +4,6 @@ A simple **Java Swing GUI application** that checks the strength of a password b
 
 ---
 
-## 📸 Screenshot
-
-> *(Add a screenshot of the app window here if available)*  
-> Example:
-> ![App Screenshot](screenshot.png)
-
----
-
 ## 🧰 Features
 
 - ✅ **User-friendly GUI** built with Java Swing  
